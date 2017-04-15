@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-kotlin-experiment",
+  "version": "1.0.0",
+  "description": "Experimenting with NodeJS and KotlinJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeJS",
+    "Kotlin"
+  ],
+  "author": "nomisRev",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.15.2",
+    "kotlin": "^1.1.0"
+  }
+}
